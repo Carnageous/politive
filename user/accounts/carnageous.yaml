@@ -1,0 +1,11 @@
+email: janis.jansen@politive.org
+fullname: 'Janis Jansen'
+title: Admin
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$GNA5xEn734ckGmxoG6xSOuZTyYVFg6LWrbhsYxTPsklxJy.5e9GJ.
